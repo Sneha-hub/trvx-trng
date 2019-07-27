@@ -26,7 +26,7 @@ Roles
 -----
 Roles provide logical grouping of cookbooks and other roles. A sample role can be found at `roles/starter.rb`.
 
-This is end 
+This is end. 
 
 Getting Started
 -------------------------
