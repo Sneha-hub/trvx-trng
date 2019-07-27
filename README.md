@@ -1,4 +1,6 @@
-The new chef repo
+The new chef  repository
+
+### new file
 ===============
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
 
